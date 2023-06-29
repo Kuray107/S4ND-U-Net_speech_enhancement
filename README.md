@@ -9,6 +9,8 @@ Speech Enhancement Using Small-footprint Models". To appear in Interspeech 2023.
 
 <img src="https://github.com/Kuray107/S4ND-U-Net_speech_enhancement/blob/main/s4se_is23.png" width="500">
 
+### Reference
+
 ```bib
 @article{ku2023multi,
   title={A Multi-dimensional Deep Structured State Space Approach to Speech Enhancement Using Small-footprint Models},
