@@ -4,6 +4,12 @@ This is the implemenation code repo for paper "A Multi-dimensional Deep Structur
 Speech Enhancement Using Small-footprint Models". To appear in Interspeech 2023.
 
 
+```
+cd S4ND-U-Net_speech_enhancement/ model
+python S4ND-U-Net.py
+
+```
+
 [Paper](https://arxiv.org/pdf/2306.00331.pdf)
 
 <img src="https://github.com/Kuray107/S4ND-U-Net_speech_enhancement/blob/main/s4se_is23.png" width="500">
