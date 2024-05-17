@@ -5,7 +5,7 @@ Speech Enhancement Using Small-footprint Models". To appear in Interspeech 2023.
 
 - Run and Print the Loss
 ```
-cd S4ND-U-Net_speech_enhancement/ model
+cd S4ND-U-Net_speech_enhancement/model
 python S4ND-U-Net.py
 
 ```
